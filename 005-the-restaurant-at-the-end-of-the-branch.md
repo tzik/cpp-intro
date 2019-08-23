@@ -710,12 +710,12 @@ int main()
 
 表にまとめると以下のようになる。
 
-式                    結果
-----------------      -------
-`false || false`      `false`
-`false || true`       `true`
-`true  || false`      `true`
-`true  || true`       `true`
+| 式 | 結果 |
+| ---------------- | ------- |
+| `false || false` | `false` |
+| `false || true` | `true` |
+| `true  || false` | `true` |
+| `true  || true` | `true` |
 
 さっそく確かめてみよう。
 
